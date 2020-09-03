@@ -1,0 +1,95 @@
+Label::>> __label__PERFORMANCE
+Strength::>> 0.7257024459829055
+Text::>> 'La gestion des actifs de classe mondiale doit être réalisée grâce à :'
+
+
+Label::>> __label__PERFORMANCE
+Strength::>> 0.6654516893571616
+Text::>> 'Le but de cette fonction est de : - Connaître à chaque fois la configuration actuelle du système - Connaître à tout moment la description technique du système et de ses composants, en utilisant la documentation approuvée - Enregistrer et contrôler de manière efficace et continue les évolutions de la description technique et assurer la traçabilité de ces évolutions tout au long du cycle de vie du système - Faciliter la cohérence des composants du système (contrôle des interfaces externes) et des produits composant ces composants (contrôle des interfaces internes) - Vérifier que la documentation est et reste limage exacte des produits - Identifier la ligne de base de la configuration actuelle et la configuration telle que conçue pour chaque composant, afin denregistrer les anomalies détectées lors de la production, de la livraison ou de lexploitation, et de les utiliser pour une utilisation ultérieure - Permettre à tout utilisateur de connaître les capacités opérationnelles et les limites de chaque élément du système et, en cas décarts ou de non-conformité, de connaître les éléments concernés'
+
+
+Label::>> __label__PERFORMANCE
+Strength::>> 0.7195752071682883
+Text::>> 'La gestion des actifs couvre à la fois les documents et les composants physiques (y compris les logiciels) utilisés et produits par le projet. Au début, les systèmes de gestion de la configuration sont principalement des exigences dans les documents et les outils de gestion informatique, avec des niveaux de détails croissants, passant par les niveaux dinformations de conception, les cas de sécurité, etc. informations sur les actifs et documentation concernant leurs tests, leur intégration et leur transfert en phase dexploitation et de maintenance.'
+
+
+Label::>> __label__INFORMATION
+Strength::>> 0.8695279287894643
+Text::>> 'Le système fourni au personnel la version actuelle de toutes les données de configuration installées sur les composants du système.'
+
+
+Label::>> __label__FUNCTIONNAL
+Strength::>> 1.000008569488611
+Text::>> 'Le système doit fournir au personnel des fonctionnalités à distance, permettant le téléchargement / la mise à jour des données de configuration. Cette fonctionnalité est obligatoire pour les équipements embarqués.'
+
+
+Label::>> __label__FUNCTIONNAL
+Strength::>> 0.9998609883919842
+Text::>> 'En plus du téléchargement à distance du logiciel ou en remplacement, le système doit permettre le téléchargement des données de configuration locales pour tous les équipements du système (le cas échéant).'
+
+
+Label::>> __label__PERFORMANCE
+Strength::>> 0.982310341398583
+Text::>> 'Le système doit effectuer la vérification de la compatibilité entre les versions des données de configuration installées sur la partie du matériel du système.'
+
+
+Label::>> __label__PERFORMANCE
+Strength::>> 0.8336891441865033
+Text::>> 'Si le système détecte que les versions des données de configuration installées sur les équipements ne sont pas compatibles entre elles, il doit se mettre en sécurité. De plus, le système doit notifier lopération centralisée lorsquil détecte une telle incompatibilité.'
+
+
+Label::>> __label__FUNCTIONNAL
+Strength::>> 1.0000099999997247
+Text::>> 'Le système doit fournir au personnel la version actuelle de tous les logiciels installés sur les composants du système.'
+
+
+Label::>> __label__FUNCTIONNAL
+Strength::>> 1.0000098807910693
+Text::>> 'Le système doit fournir au personnel des fonctionnalités distantes permettant le téléchargement / la mise à jour des logiciels opérationnels. Cette fonctionnalité est obligatoire pour les équipements embarqués.'
+
+
+Label::>> __label__FUNCTIONNAL
+Strength::>> 0.9999753100975175
+Text::>> 'En plus du téléchargement à distance du logiciel, ou en remplacement, le système doit permettre le téléchargement de logiciels locaux pour tous les équipements du système (le cas échéant).'
+
+
+Label::>> __label__PERFORMANCE
+Strength::>> 0.9973941310273786
+Text::>> 'Le système doit effectuer la vérification de la compatibilité entre les versions logicielles installées sur la partie du matériel du système.'
+
+
+Label::>> __label__PERFORMANCE
+Strength::>> 0.6188949776568442
+Text::>> 'Si le système détecte que les versions logicielles du logiciel installé sur léquipement ne sont pas compatibles entre elles, il doit se mettre en sécurité. De plus, le système doit notifier lopération centralisée lorsquil détecte une telle incompatibilité.'
+
+
+Label::>> __label__INFORMATION
+Strength::>> 0.9174403425232486
+Text::>> 'Les objectifs de cette fonction sont les suivants : - Permettre la surveillance des pièces de rechange disponibles - Gérer le retrait des pièces détachées des composants installés - Gérer les ajouts aux pièces de rechange des nouveaux composants (ou des pièces nouvellement réparées) - Surveiller lhistorique des pièces de rechange'
+
+
+Label::>> __label__PERFORMANCE
+Strength::>> 0.7303742130714619
+Text::>> 'La gestion des pièces de rechange et des consommables, qui couvre la planification, lapprovisionnement, le stockage et lapprovisionnement de toutes les pièces de rechange pour toutes les catégories dactifs au cours de leur cycle de vie, doit être définie.'
+
+
+Label::>> __label__PERFORMANCE
+Strength::>> 0.8796965952659548
+Text::>> 'Les pièces de rechange du système doivent être classées dans les catégories suivantes : - Pièces de rechange routables comprenant des actifs réparables. Dans la plupart des cas, cet équipement est sérialisé et suivi pour surveiller les tendances de lhistorique de maintenance et des enregistrements de coûts des équipements individuels. Les pièces routables sont souvent des sous-ensembles complexes qui ont des fabricants spécialisés et de longs délais de livraison - Des pièces de rechange dassurance comprenant des pièces de rechange qui ne sont probablement pas utilisées pour la maintenance pendant la durée de vie du système mais qui sont utilisées pour remplacer les pièces endommagées lors de collisions et les incidents - Consommables comprenant des matériaux de maintenance moins coûteux tels que des lubrifiants, des produits chimiques de nettoyage et des fixations, ainsi que des articles plus coûteux qui ne sont pas économiquement réparables (articles électroniques et souscomposants utilisés dans la réparation des équipements routables)'
+
+
+Label::>> __label__PERFORMANCE
+Strength::>> 0.998492525313858
+Text::>> 'Les pièces de rechange doivent être maintenues au niveau des unités remplaçables en ligne (URL) et classées en fonction du type de pièces de rechange ; consommables, routable ou dassurance et sils sont opérationnels ou de sécurité critiques.'
+
+
+Label::>> __label__FUNCTIONNAL
+Strength::>> 0.9986461860803041
+Text::>> 'Le stock initial de pièces de rechange doit être défini à laide des taux de défaillance en service établis lorsquils sont disponibles et des facteurs comprenant les quantités sur le terrain, les besoins de maintenance planifiée, la fiabilité, le délai et la probabilité requise de disponibilité du disque de secours.'
+
+
+Label::>> __label__PERFORMANCE
+Strength::>> 0.9909780487020391
+Text::>> 'Le stock initial de pièces de rechange doit définir la plage et la quantité de pièces de rechange nécessaires à la maintenance des systèmes et sassurer quils répondent aux exigences de disponibilité spécifiées.'
+
+
